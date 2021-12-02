@@ -1,2 +1,2 @@
-# abandoned_horror_JSON_codes
+# Abandoned Horror .JSON codes
 Private info of user data backups. DO NOT DISTRIBUTE.
