@@ -1,2 +1,2 @@
 # Abandoned Horror .JSON codes
-Info of user data backups.
+Info of user data.
