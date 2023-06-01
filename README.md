@@ -3,4 +3,4 @@
 * Game version data included.
 * Moderator data included.
 
-©[Imagicast](https://github.com/Imagicast-Official)
+[© Imagicast](https://github.com/Imagicast-Official)
